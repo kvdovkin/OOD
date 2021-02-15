@@ -1,0 +1,20 @@
+﻿  OODLab.cpp
+c:\users\public\labs\ood\oodlab\oodlab\oodlab\ccircle.h(13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\public\labs\ood\oodlab\oodlab\oodlab\ccircle.h(14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\public\labs\ood\oodlab\oodlab\oodlab\crectangle.h(14): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\public\labs\ood\oodlab\oodlab\oodlab\crectangle.h(18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  ReadData.cpp
+c:\users\public\labs\ood\oodlab\oodlab\oodlab\ccircle.h(13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\public\labs\ood\oodlab\oodlab\oodlab\ccircle.h(14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\public\labs\ood\oodlab\oodlab\oodlab\crectangle.h(14): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\public\labs\ood\oodlab\oodlab\oodlab\crectangle.h(18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  OODLab.vcxproj -> C:\Users\Public\Labs\OOD\OODLab\OODLab\x64\Debug\OODLab.exe

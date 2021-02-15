@@ -1,0 +1,4 @@
+Triangle: P= 323.607, S= 5000
+Rectangle: P= 400, S= 10000
+Circle: P= 314, S= 7850
+Triangle: P= 763.441, S= 25000
